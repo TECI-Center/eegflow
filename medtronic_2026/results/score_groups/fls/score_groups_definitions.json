@@ -1,0 +1,25 @@
+{
+  "procedure": "FLS",
+  "low_scorers_threshold": "< 30071.92",
+  "low_scorers_count": 6,
+  "low_scorers_pids": [
+    "P114",
+    "P173",
+    "P175",
+    "P206",
+    "P216",
+    "P239"
+  ],
+  "high_scorers_threshold": "> 30196.21",
+  "high_scorers_count": 6,
+  "high_scorers_pids": [
+    "P209",
+    "P215",
+    "P219",
+    "P225",
+    "P226",
+    "P228"
+  ],
+  "medium_scorers_count": 9,
+  "excluded_from_groups": "30071.92 to 30196.21"
+}

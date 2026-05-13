@@ -1,0 +1,32 @@
+{
+  "total_participants": 16,
+  "group1": {
+    "definition": "Focus Index < 17 on both platforms",
+    "count": 10,
+    "pids": [
+      "P175",
+      "P206",
+      "P209",
+      "P211",
+      "P215",
+      "P216",
+      "P224",
+      "P226",
+      "P237",
+      "P240"
+    ]
+  },
+  "group2": {
+    "definition": "Focus Index >= 17 on either FLS or Hugo",
+    "count": 6,
+    "pids": [
+      "P114",
+      "P166",
+      "P219",
+      "P227",
+      "P228",
+      "P239"
+    ]
+  },
+  "platforms": "FLS (Circle Cutting) vs Hugo (Fourth Arm Cutting)"
+}

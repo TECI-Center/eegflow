@@ -1,0 +1,37 @@
+{
+  "procedure": "HUGO",
+  "low_scorers_threshold": "< 30075.25",
+  "low_scorers_count": 12,
+  "low_scorers_pids": [
+    "P114",
+    "P122",
+    "P136",
+    "P146",
+    "P150",
+    "P177",
+    "P181",
+    "P187",
+    "P202",
+    "P203",
+    "P211",
+    "P216"
+  ],
+  "high_scorers_threshold": "> 40246.68",
+  "high_scorers_count": 12,
+  "high_scorers_pids": [
+    "P105",
+    "P115",
+    "P126",
+    "P140",
+    "P175",
+    "P180",
+    "P189",
+    "P196",
+    "P215",
+    "P219",
+    "P237",
+    "P347"
+  ],
+  "medium_scorers_count": 25,
+  "excluded_from_groups": "30075.25 to 40246.68"
+}

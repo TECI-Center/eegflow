@@ -1,0 +1,9 @@
+HUGO with Fourth Arm Cutting metrics: 49
+FlexVR with Fourth Arm Cutting metrics: 32
+Common in both metrics: 27
+Common with scores: 27
+
+Filtered out due to missing/NaN metrics: 1
+  P150: focus_index - NaN (HUGO: 71.16809338629747, FlexVR: nan)
+
+Final plotted points: 26

@@ -1,0 +1,29 @@
+{
+  "procedure": "FLEXVR",
+  "low_scorers_threshold": "< 30063.1",
+  "low_scorers_count": 8,
+  "low_scorers_pids": [
+    "P120",
+    "P136",
+    "P150",
+    "P163",
+    "P196",
+    "P203",
+    "P217",
+    "P230"
+  ],
+  "high_scorers_threshold": "> 30178.01",
+  "high_scorers_count": 8,
+  "high_scorers_pids": [
+    "P101",
+    "P116",
+    "P126",
+    "P140",
+    "P199",
+    "P210",
+    "P225",
+    "P238"
+  ],
+  "medium_scorers_count": 16,
+  "excluded_from_groups": "30063.1 to 30178.01"
+}

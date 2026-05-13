@@ -1,0 +1,226 @@
+{
+  "Circle Cutting": {
+    "phase": "Circle Cutting",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 2,
+    "low_n": 12,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 6.295578718230756,
+        "high_std": 2.2897763188995826,
+        "high_n": 2,
+        "low_mean": 11.814505982808754,
+        "low_std": 9.058625991975102,
+        "low_n": 12,
+        "t_statistic": -0.8307504022486012,
+        "p_value": 0.42233616272924546,
+        "cohens_d": -0.6344961003198712,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 3.2818640362384124,
+        "high_std": 2.1313551650024465,
+        "high_n": 2,
+        "low_mean": 7.830305901660695,
+        "low_std": 7.789070647219054,
+        "low_n": 12,
+        "t_statistic": -0.795865727286362,
+        "p_value": 0.44156990025030596,
+        "cohens_d": -0.6078524897184726,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": 2.7374803536180035,
+        "high_std": 3.5779484442238387,
+        "high_n": 2,
+        "low_mean": -0.13143555183776548,
+        "low_std": 0.9604230770688816,
+        "low_n": 12,
+        "t_statistic": 2.716284372987217,
+        "p_value": 0.018736215692790863,
+        "cohens_d": 2.0745964580399305,
+        "significant": true
+      },
+      "TLX": {
+        "high_mean": 1.4222346617169672,
+        "high_std": 0.3808843795559587,
+        "high_n": 2,
+        "low_mean": 1.549283783105955,
+        "low_std": 1.0379740478415773,
+        "low_n": 12,
+        "t_statistic": -0.16637155265164222,
+        "p_value": 0.8706349159935559,
+        "cohens_d": -0.1270683722522469,
+        "significant": false
+      }
+    }
+  },
+  "Peg Transfer": {
+    "phase": "Peg Transfer",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 2,
+    "low_n": 12,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 4.832388292986841,
+        "high_std": 2.8469639381424945,
+        "high_n": 2,
+        "low_mean": 8.782230149490433,
+        "low_std": 7.214910958284191,
+        "low_n": 12,
+        "t_statistic": -0.7434169373527707,
+        "p_value": 0.47153443050838695,
+        "cohens_d": -0.5677940647218859,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 2.582689992250849,
+        "high_std": 2.3576191180648696,
+        "high_n": 2,
+        "low_mean": 5.667423018413611,
+        "low_std": 6.005054377801566,
+        "low_n": 12,
+        "t_statistic": -0.6976134298998036,
+        "p_value": 0.4987132052664245,
+        "cohens_d": -0.5328110580556032,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": 2.921434132006462,
+        "high_std": 3.3015664546191354,
+        "high_n": 2,
+        "low_mean": -0.1455462661446859,
+        "low_std": 0.8133369315589287,
+        "low_n": 12,
+        "t_statistic": 3.262734929076838,
+        "p_value": 0.006794102804461038,
+        "cohens_d": 2.4919549641784977,
+        "significant": true
+      },
+      "TLX": {
+        "high_mean": 1.7735008180849083,
+        "high_std": 0.8651788533470693,
+        "high_n": 2,
+        "low_mean": 1.863118601921406,
+        "low_std": 1.1663489766041804,
+        "low_n": 12,
+        "t_statistic": -0.10254213300834487,
+        "p_value": 0.920020015065403,
+        "cohens_d": -0.07831784773882837,
+        "significant": false
+      }
+    }
+  },
+  "Pen Rose Suturing": {
+    "phase": "Pen Rose Suturing",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 2,
+    "low_n": 12,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 7.741216150898322,
+        "high_std": 5.237085387245585,
+        "high_n": 2,
+        "low_mean": 9.847573286027718,
+        "low_std": 7.403414818870519,
+        "low_n": 12,
+        "t_statistic": -0.3805184546232481,
+        "p_value": 0.7102107786169835,
+        "cohens_d": -0.29062577027310893,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 4.444447795641854,
+        "high_std": 4.071105917297725,
+        "high_n": 2,
+        "low_mean": 6.078402287347399,
+        "low_std": 5.862002170475209,
+        "low_n": 12,
+        "t_statistic": -0.37308813301502475,
+        "p_value": 0.7155898272621019,
+        "cohens_d": -0.28495076840518396,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": 2.4168556292860095,
+        "high_std": 3.1726787160399184,
+        "high_n": 2,
+        "low_mean": -0.28388040664173514,
+        "low_std": 0.9930077107352786,
+        "low_n": 12,
+        "t_statistic": 2.6786154779132394,
+        "p_value": 0.0200882876714968,
+        "cohens_d": 2.045826364202956,
+        "significant": true
+      },
+      "TLX": {
+        "high_mean": 1.4826807671033322,
+        "high_std": 0.5996052257398299,
+        "high_n": 2,
+        "low_mean": 1.7239399997004508,
+        "low_std": 1.0629449252515772,
+        "low_n": 12,
+        "t_statistic": -0.3059965958945738,
+        "p_value": 0.7648509158568397,
+        "cohens_d": -0.23370876051428296,
+        "significant": false
+      }
+    }
+  },
+  "full": {
+    "phase": "full",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 2,
+    "low_n": 12,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 6.2174715914199545,
+        "high_std": 4.385593350651006,
+        "high_n": 2,
+        "low_mean": 9.376217933183506,
+        "low_std": 6.575144950240029,
+        "low_n": 12,
+        "t_statistic": -0.6440742896589061,
+        "p_value": 0.5316453047942074,
+        "cohens_d": -0.49191986425614176,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 3.417150628083306,
+        "high_std": 3.372598324547732,
+        "high_n": 2,
+        "low_mean": 5.862301868698339,
+        "low_std": 5.310138459724525,
+        "low_n": 12,
+        "t_statistic": -0.6184651789190585,
+        "p_value": 0.5478286765919442,
+        "cohens_d": -0.47236058284849874,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": 2.774333467412353,
+        "high_std": 3.153060085777643,
+        "high_n": 2,
+        "low_mean": -0.18938225097300856,
+        "low_std": 0.8620810099959778,
+        "low_n": 12,
+        "t_statistic": 3.158114892654408,
+        "p_value": 0.00824967606570047,
+        "cohens_d": 2.4120500914926937,
+        "significant": true
+      },
+      "TLX": {
+        "high_mean": 2.04705881925047,
+        "high_std": 1.3035803352827022,
+        "high_n": 2,
+        "low_mean": 2.0233548571673006,
+        "low_std": 1.1198334179814993,
+        "low_n": 12,
+        "t_statistic": 0.027313462328141504,
+        "p_value": 0.9786586982004402,
+        "cohens_d": 0.020861001435005536,
+        "significant": false
+      }
+    }
+  }
+}

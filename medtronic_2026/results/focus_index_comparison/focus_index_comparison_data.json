@@ -1,0 +1,158 @@
+[
+  {
+    "participant_id": "P101",
+    "hugo_focus_index": 2.3039355653966385,
+    "flexvr_focus_index": 2.15841566725024,
+    "difference": -0.14551989814639832
+  },
+  {
+    "participant_id": "P105",
+    "hugo_focus_index": 38.85558887564709,
+    "flexvr_focus_index": 7.05007267003048,
+    "difference": -31.805516205616613
+  },
+  {
+    "participant_id": "P111",
+    "hugo_focus_index": 2.0307912737086498,
+    "flexvr_focus_index": 4.6138516414565345,
+    "difference": 2.5830603677478847
+  },
+  {
+    "participant_id": "P115",
+    "hugo_focus_index": 2.4752401176727203,
+    "flexvr_focus_index": 6.390888358352549,
+    "difference": 3.9156482406798285
+  },
+  {
+    "participant_id": "P118",
+    "hugo_focus_index": 2.9787300171098945,
+    "flexvr_focus_index": 3.050465932409538,
+    "difference": 0.07173591529964352
+  },
+  {
+    "participant_id": "P121",
+    "hugo_focus_index": 1.908932580852726,
+    "flexvr_focus_index": 12.486437269443488,
+    "difference": 10.577504688590762
+  },
+  {
+    "participant_id": "P122",
+    "hugo_focus_index": 3.4724402484945394,
+    "flexvr_focus_index": 5.8912844019965585,
+    "difference": 2.418844153502019
+  },
+  {
+    "participant_id": "P126",
+    "hugo_focus_index": 4.3667826662694935,
+    "flexvr_focus_index": 6.86516079393235,
+    "difference": 2.498378127662856
+  },
+  {
+    "participant_id": "P136",
+    "hugo_focus_index": 21.24273812754789,
+    "flexvr_focus_index": 4.664735703435574,
+    "difference": -16.578002424112317
+  },
+  {
+    "participant_id": "P140",
+    "hugo_focus_index": 2.3857949358332,
+    "flexvr_focus_index": 7.391697537724248,
+    "difference": 5.005902601891048
+  },
+  {
+    "participant_id": "P141",
+    "hugo_focus_index": 5.765096341003763,
+    "flexvr_focus_index": 4.792276291505502,
+    "difference": -0.9728200494982611
+  },
+  {
+    "participant_id": "P146",
+    "hugo_focus_index": 2.669715219548145,
+    "flexvr_focus_index": 49.96467766786855,
+    "difference": 47.294962448320405
+  },
+  {
+    "participant_id": "P154",
+    "hugo_focus_index": 11.897770601042733,
+    "flexvr_focus_index": 25.588521462789917,
+    "difference": 13.690750861747183
+  },
+  {
+    "participant_id": "P181",
+    "hugo_focus_index": 3.1943871621034927,
+    "flexvr_focus_index": 2.9545601550835943,
+    "difference": -0.23982700701989845
+  },
+  {
+    "participant_id": "P187",
+    "hugo_focus_index": 6.580549832471091,
+    "flexvr_focus_index": 10.98385697164225,
+    "difference": 4.40330713917116
+  },
+  {
+    "participant_id": "P188",
+    "hugo_focus_index": 68.53624533437322,
+    "flexvr_focus_index": 12.95415806957138,
+    "difference": -55.58208726480184
+  },
+  {
+    "participant_id": "P189",
+    "hugo_focus_index": 5.572464910703333,
+    "flexvr_focus_index": 11.881961435076628,
+    "difference": 6.309496524373294
+  },
+  {
+    "participant_id": "P196",
+    "hugo_focus_index": 2.500299520331397,
+    "flexvr_focus_index": 8.106021310549728,
+    "difference": 5.605721790218331
+  },
+  {
+    "participant_id": "P199",
+    "hugo_focus_index": 5.588741659896538,
+    "flexvr_focus_index": 2.150926986603554,
+    "difference": -3.437814673292984
+  },
+  {
+    "participant_id": "P202",
+    "hugo_focus_index": 0.888167073859572,
+    "flexvr_focus_index": 3.471304214776792,
+    "difference": 2.58313714091722
+  },
+  {
+    "participant_id": "P203",
+    "hugo_focus_index": 6.959656925529472,
+    "flexvr_focus_index": 17.011894863379133,
+    "difference": 10.052237937849661
+  },
+  {
+    "participant_id": "P210",
+    "hugo_focus_index": 1.875128678607299,
+    "flexvr_focus_index": 9.822684442463949,
+    "difference": 7.94755576385665
+  },
+  {
+    "participant_id": "P217",
+    "hugo_focus_index": 6.182737840097684,
+    "flexvr_focus_index": 14.012659793091396,
+    "difference": 7.829921952993712
+  },
+  {
+    "participant_id": "P218",
+    "hugo_focus_index": 60.07793144037029,
+    "flexvr_focus_index": 15.840399447415614,
+    "difference": -44.23753199295468
+  },
+  {
+    "participant_id": "P230",
+    "hugo_focus_index": 2.015619912699408,
+    "flexvr_focus_index": 2.436727775932199,
+    "difference": 0.4211078632327907
+  },
+  {
+    "participant_id": "P238",
+    "hugo_focus_index": 62.52601593243789,
+    "flexvr_focus_index": 12.347202882793486,
+    "difference": -50.178813049644404
+  }
+]

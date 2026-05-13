@@ -1,0 +1,40 @@
+{
+  "Group 1 (Highest Min Angular Velocity)": {
+    "description": "Highest minimum angular velocity indicating excellent bimanual dexterity",
+    "participants": [
+      "P106",
+      "P218",
+      "P140",
+      "P219",
+      "P347",
+      "P180",
+      "P101"
+    ],
+    "count": 7
+  },
+  "Group 2 (High Min Angular Velocity)": {
+    "description": "High minimum angular velocity indicating good bimanual dexterity",
+    "participants": [
+      "P121",
+      "P146",
+      "P150",
+      "P188",
+      "P187",
+      "P111",
+      "P173",
+      "P203",
+      "P115",
+      "P202",
+      "P216",
+      "P224",
+      "P228",
+      "P239",
+      "P240",
+      "P227",
+      "P181",
+      "P114",
+      "P126"
+    ],
+    "count": 19
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "Group1 vs Group2": {
+    "Circle Cutting": {
+      "phase": "Circle Cutting",
+      "comparison": "Group1 vs Group2",
+      "group1_n": 3,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 19.42881751035377,
+          "group1_std": 3.227673240635546,
+          "group1_n": 3,
+          "group2_mean": 15.793814080424127,
+          "group2_std": 14.570749781911266,
+          "group2_n": 3,
+          "t_statistic": 0.4218726153986689,
+          "p_value": 0.6948041683503026,
+          "cohens_d": 0.3444575480600507,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 14.111368531040506,
+          "group1_std": 2.882950682879135,
+          "group1_n": 3,
+          "group2_mean": 11.250359805553822,
+          "group2_std": 13.008700809537135,
+          "group2_n": 3,
+          "t_statistic": 0.3719071375609483,
+          "p_value": 0.7288257960507929,
+          "cohens_d": 0.30366090624113173,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": -0.6835846675685872,
+          "group1_std": 1.6260325699578306,
+          "group1_n": 3,
+          "group2_mean": 0.511951408579404,
+          "group2_std": 0.9863739527313828,
+          "group2_n": 3,
+          "t_statistic": -1.0888150926176356,
+          "p_value": 0.3374418893463943,
+          "cohens_d": -0.8890138003848048,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.0067496999613985,
+          "group1_std": 0.39766309076486206,
+          "group1_n": 3,
+          "group2_mean": 1.290375077521152,
+          "group2_std": 0.720842308991231,
+          "group2_n": 3,
+          "t_statistic": -0.5967206807648692,
+          "p_value": 0.5828261921392938,
+          "cohens_d": -0.48722039561338076,
+          "significant": false
+        }
+      }
+    },
+    "Peg Transfer": {
+      "phase": "Peg Transfer",
+      "comparison": "Group1 vs Group2",
+      "group1_n": 3,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 12.820218375247384,
+          "group1_std": 4.954730557650537,
+          "group1_n": 3,
+          "group2_mean": 13.090533004534215,
+          "group2_std": 12.31215604436762,
+          "group2_n": 3,
+          "t_statistic": -0.03527792070465424,
+          "p_value": 0.9735484173077419,
+          "cohens_d": -0.028804301637589624,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 8.640918562611555,
+          "group1_std": 4.5738032314351305,
+          "group1_n": 3,
+          "group2_mean": 9.2814877882359,
+          "group2_std": 10.264886159614122,
+          "group2_n": 3,
+          "t_statistic": -0.09872937889706407,
+          "p_value": 0.9261029513984419,
+          "cohens_d": -0.08061220030657079,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": -0.6734659345973859,
+          "group1_std": 1.2004343997702618,
+          "group1_n": 3,
+          "group2_mean": 0.6430079240461617,
+          "group2_std": 0.5992828443414883,
+          "group2_n": 3,
+          "t_statistic": -1.699474208770201,
+          "p_value": 0.16445624312163382,
+          "cohens_d": -1.3876148808357216,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.2215039130814789,
+          "group1_std": 0.5708451217950854,
+          "group1_n": 3,
+          "group2_mean": 1.4997727249911155,
+          "group2_std": 0.8641426084591832,
+          "group2_n": 3,
+          "t_statistic": -0.46537701375403545,
+          "p_value": 0.6658693642271244,
+          "cohens_d": -0.3799787405725253,
+          "significant": false
+        }
+      }
+    },
+    "Pen Rose Suturing": {
+      "phase": "Pen Rose Suturing",
+      "comparison": "Group1 vs Group2",
+      "group1_n": 3,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 18.80156623806874,
+          "group1_std": 8.137149537121537,
+          "group1_n": 3,
+          "group2_mean": 8.109086861059003,
+          "group2_std": 6.235782688151561,
+          "group2_n": 3,
+          "t_statistic": 1.8065144250821767,
+          "p_value": 0.14513434472077397,
+          "cohens_d": 1.4750128514762137,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 13.416461893667005,
+          "group1_std": 6.844953889715056,
+          "group1_n": 3,
+          "group2_mean": 4.690648927176923,
+          "group2_std": 4.317168290724082,
+          "group2_n": 3,
+          "t_statistic": 1.867560169384982,
+          "p_value": 0.1352121996874273,
+          "cohens_d": 1.5248564929796427,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": -0.9429290348537226,
+          "group1_std": 1.2925500402939802,
+          "group1_n": 3,
+          "group2_mean": 0.5470136918774754,
+          "group2_std": 0.8236917357877518,
+          "group2_n": 3,
+          "t_statistic": -1.6837378978061608,
+          "p_value": 0.16751868501409153,
+          "cohens_d": -1.3747662367371671,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.228943771556291,
+          "group1_std": 0.563345476933168,
+          "group1_n": 3,
+          "group2_mean": 1.4986584581894788,
+          "group2_std": 0.706870250647869,
+          "group2_n": 3,
+          "t_statistic": -0.5168302221324689,
+          "p_value": 0.632536530476506,
+          "cohens_d": -0.42199010929127806,
+          "significant": false
+        }
+      }
+    },
+    "full": {
+      "phase": "full",
+      "comparison": "Group1 vs Group2",
+      "group1_n": 3,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 15.45465553798534,
+          "group1_std": 4.042636545347682,
+          "group1_n": 3,
+          "group2_mean": 10.974662067714123,
+          "group2_std": 10.088208660591638,
+          "group2_n": 3,
+          "t_statistic": 0.7139794810707554,
+          "p_value": 0.5146891039204246,
+          "cohens_d": 0.5829618051468238,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 10.71341953850182,
+          "group1_std": 3.360857645789117,
+          "group1_n": 3,
+          "group2_mean": 7.244806355708774,
+          "group2_std": 8.20640583272015,
+          "group2_n": 3,
+          "t_statistic": 0.6774753108182732,
+          "p_value": 0.5352657352692076,
+          "cohens_d": 0.5531562749460684,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": -0.7222818600528372,
+          "group1_std": 1.2645123771020592,
+          "group1_n": 3,
+          "group2_mean": 0.534473151057282,
+          "group2_std": 0.7057818287733877,
+          "group2_n": 3,
+          "t_statistic": -1.5031407870925984,
+          "p_value": 0.20722957320742844,
+          "cohens_d": -1.2273093133141173,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.541867582346045,
+          "group1_std": 0.7770247018782392,
+          "group1_n": 3,
+          "group2_mean": 1.9668786966944658,
+          "group2_std": 1.188489561983875,
+          "group2_n": 3,
+          "t_statistic": -0.5184251365549666,
+          "p_value": 0.6315193377717794,
+          "cohens_d": -0.4232923514641197,
+          "significant": false
+        }
+      }
+    }
+  },
+  "Group2 vs Group3": {
+    "Circle Cutting": {
+      "phase": "Circle Cutting",
+      "comparison": "Group2 vs Group3",
+      "group1_n": 3,
+      "group2_n": 10,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 15.793814080424127,
+          "group1_std": 14.570749781911266,
+          "group1_n": 3,
+          "group2_mean": 7.6242794520450285,
+          "group2_std": 5.5348803839226886,
+          "group2_n": 10,
+          "t_statistic": 1.555363806629059,
+          "p_value": 0.14814320437015385,
+          "cohens_d": 1.023865802121731,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 11.250359805553822,
+          "group1_std": 13.008700809537135,
+          "group1_n": 3,
+          "group2_mean": 4.375865793122614,
+          "group2_std": 4.64907244901783,
+          "group2_n": 10,
+          "t_statistic": 1.5002775421233983,
+          "p_value": 0.16168715869967573,
+          "cohens_d": 0.9876035834989281,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": 0.511951408579404,
+          "group1_std": 0.9863739527313828,
+          "group1_n": 3,
+          "group2_mean": 0.41208549872479844,
+          "group2_std": 1.7349257925738941,
+          "group2_n": 10,
+          "t_statistic": 0.09337644674122536,
+          "p_value": 0.9272835528013373,
+          "cohens_d": 0.06146790232259968,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.290375077521152,
+          "group1_std": 0.720842308991231,
+          "group1_n": 3,
+          "group2_mean": 1.7303848213298512,
+          "group2_std": 1.0295427261675194,
+          "group2_n": 10,
+          "t_statistic": -0.681598037731614,
+          "p_value": 0.5095890635852784,
+          "cohens_d": -0.4486827574695595,
+          "significant": false
+        }
+      }
+    },
+    "Peg Transfer": {
+      "phase": "Peg Transfer",
+      "comparison": "Group2 vs Group3",
+      "group1_n": 3,
+      "group2_n": 10,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 13.090533004534215,
+          "group1_std": 12.31215604436762,
+          "group1_n": 3,
+          "group2_mean": 7.541654971455996,
+          "group2_std": 8.414272174475895,
+          "group2_n": 10,
+          "t_statistic": 0.9116732369351644,
+          "p_value": 0.3814860405681192,
+          "cohens_d": 0.6001367950245435,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 9.2814877882359,
+          "group1_std": 10.264886159614122,
+          "group1_n": 3,
+          "group2_mean": 4.273742940479925,
+          "group2_std": 5.543027810497315,
+          "group2_n": 10,
+          "t_statistic": 1.1429997344687115,
+          "p_value": 0.2773057334939004,
+          "cohens_d": 0.7524145379807173,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": 0.6430079240461617,
+          "group1_std": 0.5992828443414883,
+          "group1_n": 3,
+          "group2_mean": 0.3968394776778558,
+          "group2_std": 1.7596012816144362,
+          "group2_n": 10,
+          "t_statistic": 0.23198280636704827,
+          "p_value": 0.8208106090117009,
+          "cohens_d": 0.15270977832139723,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.4997727249911155,
+          "group1_std": 0.8641426084591832,
+          "group1_n": 3,
+          "group2_mean": 2.136692058065661,
+          "group2_std": 1.1198213967329382,
+          "group2_n": 10,
+          "t_statistic": -0.8976624465689853,
+          "p_value": 0.388590719441551,
+          "cohens_d": -0.5909137636954824,
+          "significant": false
+        }
+      }
+    },
+    "Pen Rose Suturing": {
+      "phase": "Pen Rose Suturing",
+      "comparison": "Group2 vs Group3",
+      "group1_n": 3,
+      "group2_n": 10,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 8.109086861059003,
+          "group1_std": 6.235782688151561,
+          "group1_n": 3,
+          "group2_mean": 7.5093103669600385,
+          "group2_std": 4.277183666042932,
+          "group2_n": 10,
+          "t_statistic": 0.19408487880926267,
+          "p_value": 0.849647164359435,
+          "cohens_d": 0.12776230826177185,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 4.690648927176923,
+          "group1_std": 4.317168290724082,
+          "group1_n": 3,
+          "group2_mean": 4.261962916023617,
+          "group2_std": 3.372743917437036,
+          "group2_n": 10,
+          "t_statistic": 0.18276673006314467,
+          "p_value": 0.8583059940020559,
+          "cohens_d": 0.1203117906432653,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": 0.5470136918774754,
+          "group1_std": 0.8236917357877518,
+          "group1_n": 3,
+          "group2_mean": 0.2633785567216671,
+          "group2_std": 1.6561700098637675,
+          "group2_n": 10,
+          "t_statistic": 0.2800267900795663,
+          "p_value": 0.7846528530617517,
+          "cohens_d": 0.18433620019857302,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.4986584581894788,
+          "group1_std": 0.706870250647869,
+          "group1_n": 3,
+          "group2_mean": 1.8750587966977457,
+          "group2_std": 1.0629977196619327,
+          "group2_n": 10,
+          "t_statistic": -0.567450507763337,
+          "p_value": 0.581804019748165,
+          "cohens_d": -0.3735416542543057,
+          "significant": false
+        }
+      }
+    },
+    "full": {
+      "phase": "full",
+      "comparison": "Group2 vs Group3",
+      "group1_n": 3,
+      "group2_n": 10,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 10.974662067714123,
+          "group1_std": 10.088208660591638,
+          "group1_n": 3,
+          "group2_mean": 7.057045647017236,
+          "group2_std": 4.767162855603611,
+          "group2_n": 10,
+          "t_statistic": 0.9770941683285358,
+          "p_value": 0.349522044443879,
+          "cohens_d": 0.643202124249219,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 7.244806355708774,
+          "group1_std": 8.20640583272015,
+          "group1_n": 3,
+          "group2_mean": 3.972963088785375,
+          "group2_std": 3.752642013430171,
+          "group2_n": 10,
+          "t_statistic": 1.0195280207396713,
+          "p_value": 0.32985212549850473,
+          "cohens_d": 0.6711355055911727,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": 0.534473151057282,
+          "group1_std": 0.7057818287733877,
+          "group1_n": 3,
+          "group2_mean": 0.36346553529179915,
+          "group2_std": 1.7039080012800745,
+          "group2_n": 10,
+          "t_statistic": 0.1654276273835258,
+          "p_value": 0.8716085154047615,
+          "cohens_d": 0.10889779592545397,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.9668786966944658,
+          "group1_std": 1.188489561983875,
+          "group1_n": 3,
+          "group2_mean": 2.2194375528211254,
+          "group2_std": 1.0880347923262026,
+          "group2_n": 10,
+          "t_statistic": -0.34658737578593735,
+          "p_value": 0.7354404812078472,
+          "cohens_d": -0.22815174173521544,
+          "significant": false
+        }
+      }
+    }
+  },
+  "Group3 vs Group1": {
+    "Circle Cutting": {
+      "phase": "Circle Cutting",
+      "comparison": "Group3 vs Group1",
+      "group1_n": 10,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 7.6242794520450285,
+          "group1_std": 5.5348803839226886,
+          "group1_n": 10,
+          "group2_mean": 19.42881751035377,
+          "group2_std": 3.227673240635546,
+          "group2_n": 3,
+          "t_statistic": -3.4537065250533012,
+          "p_value": 0.005392678329336864,
+          "cohens_d": -2.2735079641788865,
+          "significant": true
+        },
+        "engagement_index": {
+          "group1_mean": 4.375865793122614,
+          "group1_std": 4.64907244901783,
+          "group1_n": 10,
+          "group2_mean": 14.111368531040506,
+          "group2_std": 2.882950682879135,
+          "group2_n": 3,
+          "t_statistic": -3.3755964309293947,
+          "p_value": 0.006190613381151433,
+          "cohens_d": -2.222089605443058,
+          "significant": true
+        },
+        "FAA_index": {
+          "group1_mean": 0.41208549872479844,
+          "group1_std": 1.7349257925738941,
+          "group1_n": 10,
+          "group2_mean": -0.6835846675685872,
+          "group2_std": 1.6260325699578306,
+          "group2_n": 3,
+          "t_statistic": 0.9701576773681713,
+          "p_value": 0.3528167712439423,
+          "cohens_d": 0.6386359668969813,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.7303848213298512,
+          "group1_std": 1.0295427261675194,
+          "group1_n": 10,
+          "group2_mean": 1.0067496999613985,
+          "group2_std": 0.39766309076486206,
+          "group2_n": 3,
+          "t_statistic": 1.1613332945321073,
+          "p_value": 0.270087321671529,
+          "cohens_d": 0.7644831646904633,
+          "significant": false
+        }
+      }
+    },
+    "Peg Transfer": {
+      "phase": "Peg Transfer",
+      "comparison": "Group3 vs Group1",
+      "group1_n": 10,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 7.541654971455996,
+          "group1_std": 8.414272174475895,
+          "group1_n": 10,
+          "group2_mean": 12.820218375247384,
+          "group2_std": 4.954730557650537,
+          "group2_n": 3,
+          "t_statistic": -1.015183411827702,
+          "p_value": 0.3318277789069263,
+          "cohens_d": -0.6682755338793458,
+          "significant": false
+        },
+        "engagement_index": {
+          "group1_mean": 4.273742940479925,
+          "group1_std": 5.543027810497315,
+          "group1_n": 10,
+          "group2_mean": 8.640918562611555,
+          "group2_std": 4.5738032314351305,
+          "group2_n": 3,
+          "t_statistic": -1.2331694829305628,
+          "p_value": 0.24321555749795393,
+          "cohens_d": -0.8117715330724938,
+          "significant": false
+        },
+        "FAA_index": {
+          "group1_mean": 0.3968394776778558,
+          "group1_std": 1.7596012816144362,
+          "group1_n": 10,
+          "group2_mean": -0.6734659345973859,
+          "group2_std": 1.2004343997702618,
+          "group2_n": 3,
+          "t_statistic": 0.972491019305979,
+          "p_value": 0.351705975133216,
+          "cohens_d": 0.6401719606012166,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 2.136692058065661,
+          "group1_std": 1.1198213967329382,
+          "group1_n": 10,
+          "group2_mean": 1.2215039130814789,
+          "group2_std": 0.5708451217950854,
+          "group2_n": 3,
+          "t_statistic": 1.3345499729059735,
+          "p_value": 0.2089902824281944,
+          "cohens_d": 0.8785083416865084,
+          "significant": false
+        }
+      }
+    },
+    "Pen Rose Suturing": {
+      "phase": "Pen Rose Suturing",
+      "comparison": "Group3 vs Group1",
+      "group1_n": 10,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 7.5093103669600385,
+          "group1_std": 4.277183666042932,
+          "group1_n": 10,
+          "group2_mean": 18.80156623806874,
+          "group2_std": 8.137149537121537,
+          "group2_n": 3,
+          "t_statistic": -3.300903844726591,
+          "p_value": 0.00706664780105125,
+          "cohens_d": -2.172920925833092,
+          "significant": true
+        },
+        "engagement_index": {
+          "group1_mean": 4.261962916023617,
+          "group1_std": 3.372743917437036,
+          "group1_n": 10,
+          "group2_mean": 13.416461893667005,
+          "group2_std": 6.844953889715056,
+          "group2_n": 3,
+          "t_statistic": -3.2938001397023484,
+          "p_value": 0.007156294245174137,
+          "cohens_d": -2.1682446947084615,
+          "significant": true
+        },
+        "FAA_index": {
+          "group1_mean": 0.2633785567216671,
+          "group1_std": 1.6561700098637675,
+          "group1_n": 10,
+          "group2_mean": -0.9429290348537226,
+          "group2_std": 1.2925500402939802,
+          "group2_n": 3,
+          "t_statistic": 1.1480253018706614,
+          "p_value": 0.2753122580717961,
+          "cohens_d": 0.7557227714481437,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 1.8750587966977457,
+          "group1_std": 1.0629977196619327,
+          "group1_n": 10,
+          "group2_mean": 1.228943771556291,
+          "group2_std": 0.563345476933168,
+          "group2_n": 3,
+          "t_statistic": 0.9903642055340549,
+          "p_value": 0.34328120983716437,
+          "cohens_d": 0.65193753215167,
+          "significant": false
+        }
+      }
+    },
+    "full": {
+      "phase": "full",
+      "comparison": "Group3 vs Group1",
+      "group1_n": 10,
+      "group2_n": 3,
+      "metrics": {
+        "focus_index": {
+          "group1_mean": 7.057045647017236,
+          "group1_std": 4.767162855603611,
+          "group1_n": 10,
+          "group2_mean": 15.45465553798534,
+          "group2_std": 4.042636545347682,
+          "group2_n": 3,
+          "t_statistic": -2.7470515372920623,
+          "p_value": 0.018990507257270715,
+          "cohens_d": -1.808330702895195,
+          "significant": true
+        },
+        "engagement_index": {
+          "group1_mean": 3.972963088785375,
+          "group1_std": 3.752642013430171,
+          "group1_n": 10,
+          "group2_mean": 10.71341953850182,
+          "group2_std": 3.360857645789117,
+          "group2_n": 3,
+          "t_statistic": -2.779064985856502,
+          "p_value": 0.01793387680913974,
+          "cohens_d": -1.8294045346594503,
+          "significant": true
+        },
+        "FAA_index": {
+          "group1_mean": 0.36346553529179915,
+          "group1_std": 1.7039080012800745,
+          "group1_n": 10,
+          "group2_mean": -0.7222818600528372,
+          "group2_std": 1.2645123771020592,
+          "group2_n": 3,
+          "t_statistic": 1.0101248317898865,
+          "p_value": 0.3341390773164634,
+          "cohens_d": 0.6649455688345504,
+          "significant": false
+        },
+        "TLX": {
+          "group1_mean": 2.2194375528211254,
+          "group1_std": 1.0880347923262026,
+          "group1_n": 10,
+          "group2_mean": 1.541867582346045,
+          "group2_std": 0.7770247018782392,
+          "group2_n": 3,
+          "t_statistic": 0.9912018228277053,
+          "p_value": 0.3428900223485245,
+          "cohens_d": 0.6524889193567596,
+          "significant": false
+        }
+      }
+    }
+  }
+}

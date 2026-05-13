@@ -1,0 +1,332 @@
+{
+    "P177": {
+        "Circle Cutting": {
+            "duration": 126,
+            "duration percentile": 56.82
+        },
+        "Peg Transfer": {
+            "duration": 166,
+            "duration percentile": 93.18
+        },
+        "Pen Rose Suturing": {
+            "duration": 194,
+            "duration percentile": 61.36
+        },
+        "score": 30088.64
+    },
+    "P175": {
+        "Circle Cutting": {
+            "duration": 67,
+            "duration percentile": 15.91
+        },
+        "Peg Transfer": {
+            "duration": 52,
+            "duration percentile": 20.45
+        },
+        "Pen Rose Suturing": {
+            "duration": 118,
+            "duration percentile": 11.36
+        },
+        "score": 30252.27
+    },
+    "P114": {
+        "Circle Cutting": {
+            "duration": 180,
+            "duration percentile": 84.09
+        },
+        "Peg Transfer": {
+            "duration": 182,
+            "duration percentile": 97.73
+        },
+        "Pen Rose Suturing": {
+            "duration": 443,
+            "duration percentile": 97.73
+        },
+        "score": 30020.45
+    },
+    "P166": {
+        "Circle Cutting": {
+            "duration": 134,
+            "duration percentile": 70.45
+        },
+        "Peg Transfer": {
+            "duration": 59,
+            "duration percentile": 29.55
+        },
+        "Pen Rose Suturing": {
+            "duration": 171,
+            "duration percentile": 36.36
+        },
+        "score": 30163.64
+    },
+    "P173": {
+        "Circle Cutting": {
+            "duration": 262,
+            "duration percentile": 97.73
+        },
+        "Peg Transfer": {
+            "duration": 81,
+            "duration percentile": 59.09
+        },
+        "Pen Rose Suturing": {
+            "duration": 272,
+            "duration percentile": 84.09
+        },
+        "score": 30059.09
+    },
+    "P172": {
+        "Circle Cutting": {
+            "duration": 168,
+            "duration percentile": 75.0
+        },
+        "Peg Transfer": {
+            "duration": 73,
+            "duration percentile": 47.73
+        },
+        "Pen Rose Suturing": {
+            "duration": 189,
+            "duration percentile": 56.82
+        },
+        "score": 30120.45
+    },
+    "P206": {
+        "Circle Cutting": {
+            "duration": 126,
+            "duration percentile": 56.82
+        },
+        "Peg Transfer": {
+            "duration": 152,
+            "duration percentile": 88.64
+        },
+        "Pen Rose Suturing": {
+            "duration": 432,
+            "duration percentile": 93.18
+        },
+        "score": 30061.36
+    },
+    "P209": {
+        "Circle Cutting": {
+            "duration": 46,
+            "duration percentile": 6.82
+        },
+        "Peg Transfer": {
+            "duration": 17,
+            "duration percentile": 2.27
+        },
+        "Pen Rose Suturing": {
+            "duration": 74,
+            "duration percentile": 2.27
+        },
+        "score": 30288.64
+    },
+    "P211": {
+        "Circle Cutting": {
+            "duration": 124,
+            "duration percentile": 47.73
+        },
+        "Peg Transfer": {
+            "duration": 61,
+            "duration percentile": 38.64
+        },
+        "Pen Rose Suturing": {
+            "duration": 264,
+            "duration percentile": 79.55
+        },
+        "score": 30134.09
+    },
+    "P215": {
+        "Circle Cutting": {
+            "duration": 110,
+            "duration percentile": 34.09
+        },
+        "Peg Transfer": {
+            "duration": 69,
+            "duration percentile": 43.18
+        },
+        "Pen Rose Suturing": {
+            "duration": 139,
+            "duration percentile": 27.27
+        },
+        "score": 30195.45
+    },
+    "P216": {
+        "Circle Cutting": {
+            "duration": 183,
+            "duration percentile": 88.64
+        },
+        "Peg Transfer": {
+            "duration": 106,
+            "duration percentile": 75.0
+        },
+        "Pen Rose Suturing": {
+            "duration": 208,
+            "duration percentile": 70.45
+        },
+        "score": 30065.91
+    },
+    "P219": {
+        "Circle Cutting": {
+            "duration": 84,
+            "duration percentile": 25.0
+        },
+        "Peg Transfer": {
+            "duration": 35,
+            "duration percentile": 6.82
+        },
+        "Pen Rose Suturing": {
+            "duration": 178,
+            "duration percentile": 47.73
+        },
+        "score": 30220.45
+    },
+    "P220": {
+        "Circle Cutting": {
+            "duration": 120,
+            "duration percentile": 43.18
+        },
+        "Peg Transfer": {
+            "duration": 91,
+            "duration percentile": 70.45
+        },
+        "Pen Rose Suturing": {
+            "duration": 139,
+            "duration percentile": 27.27
+        },
+        "score": 30159.09
+    },
+    "P225": {
+        "Circle Cutting": {
+            "duration": 118,
+            "duration percentile": 38.64
+        },
+        "Peg Transfer": {
+            "duration": 46,
+            "duration percentile": 15.91
+        },
+        "Pen Rose Suturing": {
+            "duration": 113,
+            "duration percentile": 6.82
+        },
+        "score": 30238.64
+    },
+    "P224": {
+        "Circle Cutting": {
+            "duration": 175,
+            "duration percentile": 79.55
+        },
+        "Peg Transfer": {
+            "duration": 84,
+            "duration percentile": 65.91
+        },
+        "Pen Rose Suturing": {
+            "duration": 180,
+            "duration percentile": 52.27
+        },
+        "score": 30102.27
+    },
+    "P226": {
+        "Circle Cutting": {
+            "duration": 62,
+            "duration percentile": 11.36
+        },
+        "Peg Transfer": {
+            "duration": 37,
+            "duration percentile": 11.36
+        },
+        "Pen Rose Suturing": {
+            "duration": 135,
+            "duration percentile": 20.45
+        },
+        "score": 30256.82
+    },
+    "P228": {
+        "Circle Cutting": {
+            "duration": 32,
+            "duration percentile": 2.27
+        },
+        "Peg Transfer": {
+            "duration": 60,
+            "duration percentile": 34.09
+        },
+        "Pen Rose Suturing": {
+            "duration": 171,
+            "duration percentile": 36.36
+        },
+        "score": 30227.27
+    },
+    "P227": {
+        "Circle Cutting": {
+            "duration": 129,
+            "duration percentile": 65.91
+        },
+        "Peg Transfer": {
+            "duration": 140,
+            "duration percentile": 84.09
+        },
+        "Pen Rose Suturing": {
+            "duration": 201,
+            "duration percentile": 65.91
+        },
+        "score": 30084.09
+    },
+    "P237": {
+        "Circle Cutting": {
+            "duration": 91,
+            "duration percentile": 29.55
+        },
+        "Peg Transfer": {
+            "duration": 57,
+            "duration percentile": 25.0
+        },
+        "Pen Rose Suturing": {
+            "duration": 225,
+            "duration percentile": 75.0
+        },
+        "score": 30170.45
+    },
+    "P239": {
+        "Circle Cutting": {
+            "duration": 191,
+            "duration percentile": 93.18
+        },
+        "Peg Transfer": {
+            "duration": 76,
+            "duration percentile": 52.27
+        },
+        "Pen Rose Suturing": {
+            "duration": 283,
+            "duration percentile": 88.64
+        },
+        "score": 30065.91
+    },
+    "P240": {
+        "Circle Cutting": {
+            "duration": 126,
+            "duration percentile": 56.82
+        },
+        "Peg Transfer": {
+            "duration": 81,
+            "duration percentile": 59.09
+        },
+        "Pen Rose Suturing": {
+            "duration": 177,
+            "duration percentile": 43.18
+        },
+        "score": 30140.91
+    },
+    "P242": {
+        "Circle Cutting": {
+            "duration": 82,
+            "duration percentile": 20.45
+        },
+        "Peg Transfer": {
+            "duration": 121,
+            "duration percentile": 79.55
+        },
+        "Pen Rose Suturing": {
+            "duration": 130,
+            "duration percentile": 15.91
+        },
+        "score": 30184.09
+    }
+}

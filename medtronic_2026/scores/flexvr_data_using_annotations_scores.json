@@ -1,0 +1,442 @@
+{
+    "P101": {
+        "Fourth Arm Cutting": {
+            "duration": 96,
+            "duration percentile": 17.19
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 208,
+            "duration percentile": 21.15
+        },
+        "Ring Tower Transfer": {
+            "duration": 75,
+            "duration percentile": 1.79
+        },
+        "score": 30259.87
+    },
+    "P105": {
+        "Fourth Arm Cutting": {
+            "duration": 131,
+            "duration percentile": 57.81
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 283,
+            "duration percentile": 48.08
+        },
+        "Ring Tower Transfer": {
+            "duration": 124,
+            "duration percentile": 37.5
+        },
+        "score": 30156.61
+    },
+    "P120": {
+        "Fourth Arm Cutting": {
+            "duration": 128,
+            "duration percentile": 54.69
+        },
+        "score": 10045.31
+    },
+    "P116": {
+        "Fourth Arm Cutting": {
+            "duration": 77,
+            "duration percentile": 6.25
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 285,
+            "duration percentile": 55.77
+        },
+        "Ring Tower Transfer": {
+            "duration": 82,
+            "duration percentile": 5.36
+        },
+        "score": 30232.62
+    },
+    "P121": {
+        "Fourth Arm Cutting": {
+            "duration": 135,
+            "duration percentile": 60.94
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 280,
+            "duration percentile": 36.54
+        },
+        "Ring Tower Transfer": {
+            "duration": 129,
+            "duration percentile": 44.64
+        },
+        "score": 30157.88
+    },
+    "P118": {
+        "Fourth Arm Cutting": {
+            "duration": 171,
+            "duration percentile": 76.56
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 392,
+            "duration percentile": 90.38
+        },
+        "Ring Tower Transfer": {
+            "duration": 173,
+            "duration percentile": 69.64
+        },
+        "score": 30063.41
+    },
+    "P122": {
+        "Fourth Arm Cutting": {
+            "duration": 292,
+            "duration percentile": 95.31
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 310,
+            "duration percentile": 71.15
+        },
+        "Ring Tower Transfer": {
+            "duration": 145,
+            "duration percentile": 62.5
+        },
+        "score": 30071.03
+    },
+    "P115": {
+        "Fourth Arm Cutting": {
+            "duration": 103,
+            "duration percentile": 31.25
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 349,
+            "duration percentile": 78.85
+        },
+        "Ring Tower Transfer": {
+            "duration": 151,
+            "duration percentile": 66.07
+        },
+        "score": 30123.83
+    },
+    "P146": {
+        "Fourth Arm Cutting": {
+            "duration": 274,
+            "duration percentile": 92.19
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 152,
+            "duration percentile": 1.92
+        },
+        "Ring Tower Transfer": {
+            "duration": 251,
+            "duration percentile": 94.64
+        },
+        "score": 30111.25
+    },
+    "P141": {
+        "Fourth Arm Cutting": {
+            "duration": 102,
+            "duration percentile": 26.56
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 398,
+            "duration percentile": 94.23
+        },
+        "Ring Tower Transfer": {
+            "duration": 182,
+            "duration percentile": 76.79
+        },
+        "score": 30102.42
+    },
+    "P154": {
+        "Fourth Arm Cutting": {
+            "duration": 159,
+            "duration percentile": 73.44
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 303,
+            "duration percentile": 63.46
+        },
+        "Ring Tower Transfer": {
+            "duration": 113,
+            "duration percentile": 23.21
+        },
+        "score": 30139.89
+    },
+    "P126": {
+        "Fourth Arm Cutting": {
+            "duration": 111,
+            "duration percentile": 39.06
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 286,
+            "duration percentile": 59.62
+        },
+        "Ring Tower Transfer": {
+            "duration": 99,
+            "duration percentile": 8.93
+        },
+        "score": 30192.39
+    },
+    "P140": {
+        "Fourth Arm Cutting": {
+            "duration": 192,
+            "duration percentile": 82.81
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 169,
+            "duration percentile": 9.62
+        },
+        "Ring Tower Transfer": {
+            "duration": 109,
+            "duration percentile": 16.07
+        },
+        "score": 30191.5
+    },
+    "P176": {
+        "Fourth Arm Cutting": {
+            "duration": 97,
+            "duration percentile": 21.88
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 283,
+            "duration percentile": 48.08
+        },
+        "Ring Tower Transfer": {
+            "duration": 139,
+            "duration percentile": 53.57
+        },
+        "score": 30176.48
+    },
+    "P150": {
+        "Fourth Arm Cutting": {
+            "duration": 892,
+            "duration percentile": 98.44
+        },
+        "score": 10001.56
+    },
+    "P136": {
+        "Fourth Arm Cutting": {
+            "duration": 148,
+            "duration percentile": 64.06
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 355,
+            "duration percentile": 82.69
+        },
+        "Ring Tower Transfer": {
+            "duration": 231,
+            "duration percentile": 91.07
+        },
+        "score": 30062.17
+    },
+    "P181": {
+        "Fourth Arm Cutting": {
+            "duration": 117,
+            "duration percentile": 48.44
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 271,
+            "duration percentile": 32.69
+        },
+        "Ring Tower Transfer": {
+            "duration": 224,
+            "duration percentile": 87.5
+        },
+        "score": 30131.37
+    },
+    "P188": {
+        "Fourth Arm Cutting": {
+            "duration": 121,
+            "duration percentile": 51.56
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 283,
+            "duration percentile": 48.08
+        },
+        "Ring Tower Transfer": {
+            "duration": 122,
+            "duration percentile": 33.93
+        },
+        "score": 30166.43
+    },
+    "P189": {
+        "Fourth Arm Cutting": {
+            "duration": 114,
+            "duration percentile": 42.19
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 376,
+            "duration percentile": 86.54
+        },
+        "Ring Tower Transfer": {
+            "duration": 104,
+            "duration percentile": 12.5
+        },
+        "score": 30158.77
+    },
+    "P187": {
+        "Fourth Arm Cutting": {
+            "duration": 214,
+            "duration percentile": 89.06
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 190,
+            "duration percentile": 17.31
+        },
+        "Ring Tower Transfer": {
+            "duration": 267,
+            "duration percentile": 98.21
+        },
+        "score": 30095.42
+    },
+    "P111": {
+        "Fourth Arm Cutting": {
+            "duration": 154,
+            "duration percentile": 70.31
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 308,
+            "duration percentile": 67.31
+        },
+        "Ring Tower Transfer": {
+            "duration": 133,
+            "duration percentile": 48.21
+        },
+        "score": 30114.17
+    },
+    "P199": {
+        "Fourth Arm Cutting": {
+            "duration": 84,
+            "duration percentile": 14.06
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 181,
+            "duration percentile": 13.46
+        },
+        "Ring Tower Transfer": {
+            "duration": 141,
+            "duration percentile": 58.93
+        },
+        "score": 30213.55
+    },
+    "P203": {
+        "Fourth Arm Cutting": {
+            "duration": 196,
+            "duration percentile": 85.94
+        },
+        "score": 10014.06
+    },
+    "P196": {
+        "Fourth Arm Cutting": {
+            "duration": 77,
+            "duration percentile": 6.25
+        },
+        "score": 10093.75
+    },
+    "P210": {
+        "Fourth Arm Cutting": {
+            "duration": 103,
+            "duration percentile": 31.25
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 159,
+            "duration percentile": 5.77
+        },
+        "Ring Tower Transfer": {
+            "duration": 187,
+            "duration percentile": 80.36
+        },
+        "score": 30182.62
+    },
+    "P163": {
+        "Fourth Arm Cutting": {
+            "duration": 149,
+            "duration percentile": 67.19
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 429,
+            "duration percentile": 98.08
+        },
+        "Ring Tower Transfer": {
+            "duration": 181,
+            "duration percentile": 73.21
+        },
+        "score": 30061.52
+    },
+    "P202": {
+        "Fourth Arm Cutting": {
+            "duration": 186,
+            "duration percentile": 79.69
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 237,
+            "duration percentile": 28.85
+        },
+        "Ring Tower Transfer": {
+            "duration": 118,
+            "duration percentile": 30.36
+        },
+        "score": 30161.11
+    },
+    "P217": {
+        "Fourth Arm Cutting": {
+            "duration": 78,
+            "duration percentile": 10.94
+        },
+        "Ring Tower Transfer": {
+            "duration": 139,
+            "duration percentile": 53.57
+        },
+        "score": 20135.49
+    },
+    "P218": {
+        "Fourth Arm Cutting": {
+            "duration": 115,
+            "duration percentile": 45.31
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 329,
+            "duration percentile": 75.0
+        },
+        "Ring Tower Transfer": {
+            "duration": 193,
+            "duration percentile": 83.93
+        },
+        "score": 30095.76
+    },
+    "P225": {
+        "Fourth Arm Cutting": {
+            "duration": 104,
+            "duration percentile": 35.94
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 212,
+            "duration percentile": 25.0
+        },
+        "Ring Tower Transfer": {
+            "duration": 128,
+            "duration percentile": 41.07
+        },
+        "score": 30197.99
+    },
+    "P230": {
+        "Fourth Arm Cutting": {
+            "duration": 97,
+            "duration percentile": 21.88
+        },
+        "Ring Tower Transfer": {
+            "duration": 114,
+            "duration percentile": 26.79
+        },
+        "score": 20151.34
+    },
+    "P238": {
+        "Fourth Arm Cutting": {
+            "duration": 72,
+            "duration percentile": 1.56
+        },
+        "Puzzle Piece Dissection": {
+            "duration": 281,
+            "duration percentile": 40.38
+        },
+        "Ring Tower Transfer": {
+            "duration": 111,
+            "duration percentile": 19.64
+        },
+        "score": 30238.41
+    }
+}

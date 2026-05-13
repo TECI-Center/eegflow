@@ -1,0 +1,39 @@
+{
+  "group1_criteria": "Focus index < 17 on BOTH Hugo AND FlexVR (Fourth Arm Cutting)",
+  "group1_count": 17,
+  "group1_pids": [
+    "P101",
+    "P111",
+    "P115",
+    "P118",
+    "P122",
+    "P126",
+    "P136",
+    "P140",
+    "P141",
+    "P154",
+    "P181",
+    "P189",
+    "P196",
+    "P199",
+    "P202",
+    "P210",
+    "P230"
+  ],
+  "group2_criteria": "Has data on both platforms AND focus_index >= 17 on EITHER Hugo OR FlexVR (Fourth Arm Cutting)",
+  "group2_count": 9,
+  "group2_pids": [
+    "P105",
+    "P121",
+    "P146",
+    "P187",
+    "P188",
+    "P203",
+    "P217",
+    "P218",
+    "P238"
+  ],
+  "excluded_criteria": "Missing data on either platform",
+  "excluded_count": 0,
+  "excluded_pids": []
+}

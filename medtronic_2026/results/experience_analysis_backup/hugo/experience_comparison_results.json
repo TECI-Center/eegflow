@@ -1,0 +1,338 @@
+{
+  "Fourth Arm Cutting": {
+    "phase": "Fourth Arm Cutting",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 15,
+    "low_n": 27,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 11.772045549089427,
+        "high_std": 22.53613848735947,
+        "high_n": 15,
+        "low_mean": 12.335867483641872,
+        "low_std": 18.42528661622933,
+        "low_n": 27,
+        "t_statistic": -0.08771437532015719,
+        "p_value": 0.9305413573512824,
+        "cohens_d": -0.028246712418245747,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 5.415070914617631,
+        "high_std": 10.015521645298993,
+        "high_n": 15,
+        "low_mean": 6.132528261343357,
+        "low_std": 9.789664991495975,
+        "low_n": 27,
+        "t_statistic": -0.22574205843908993,
+        "p_value": 0.8225515240553566,
+        "cohens_d": -0.072695849251137,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -1.4376031362710509,
+        "high_std": 3.1030765573861943,
+        "high_n": 15,
+        "low_mean": -1.6016044002313985,
+        "low_std": 2.949100688992822,
+        "low_n": 27,
+        "t_statistic": 0.16953759297412735,
+        "p_value": 0.8662283270572935,
+        "cohens_d": 0.0545962918317822,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 2.0463834181706977,
+        "high_std": 1.252466058974202,
+        "high_n": 15,
+        "low_mean": 3.040247875432423,
+        "low_std": 3.2298334113653726,
+        "low_n": 27,
+        "t_statistic": -1.1399513587207042,
+        "p_value": 0.26108675333826803,
+        "cohens_d": -0.3670992135900504,
+        "significant": false
+      }
+    }
+  },
+  "Knot Tying": {
+    "phase": "Knot Tying",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 13,
+    "low_n": 24,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 14.730537650316567,
+        "high_std": 25.949645718952006,
+        "high_n": 13,
+        "low_mean": 41.56359090525178,
+        "low_std": 131.84892961024286,
+        "low_n": 24,
+        "t_statistic": -0.7217640845575019,
+        "p_value": 0.47523413320325836,
+        "cohens_d": -0.24855289877695796,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 7.013244129384651,
+        "high_std": 12.121304683032621,
+        "high_n": 13,
+        "low_mean": 17.479139139320072,
+        "low_std": 50.90525899628454,
+        "low_n": 24,
+        "t_statistic": -0.7258214535488454,
+        "p_value": 0.4727740979022935,
+        "cohens_d": -0.24995012932054264,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -0.8035714330290772,
+        "high_std": 1.393317912690224,
+        "high_n": 13,
+        "low_mean": -1.6663744689250157,
+        "low_std": 3.0813442709483208,
+        "low_n": 24,
+        "t_statistic": 0.9534708325893705,
+        "p_value": 0.34689057482612784,
+        "cohens_d": 0.32834543088225276,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 1.7246400351860367,
+        "high_std": 0.8973516855791814,
+        "high_n": 13,
+        "low_mean": 2.973513290627374,
+        "low_std": 4.606506130535424,
+        "low_n": 24,
+        "t_statistic": -0.9616920716828917,
+        "p_value": 0.3428016638514123,
+        "cohens_d": -0.33117656760954767,
+        "significant": false
+      }
+    }
+  },
+  "Puzzle Piece Dissection": {
+    "phase": "Puzzle Piece Dissection",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 5,
+    "low_n": 1,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 23.369456168171517,
+        "high_std": 45.413114163593335,
+        "high_n": 5,
+        "low_mean": 1.7974738218012436,
+        "low_std": 0,
+        "low_n": 1,
+        "t_statistic": 0.43362883016004833,
+        "p_value": 0.686919841365756,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 10.623333109125468,
+        "high_std": 21.14442658299269,
+        "high_n": 5,
+        "low_mean": 0.33800878795163186,
+        "low_std": 0,
+        "low_n": 1,
+        "t_statistic": 0.4440495717907585,
+        "p_value": 0.6799711195645957,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -1.431243052400691,
+        "high_std": 2.295002070118651,
+        "high_n": 5,
+        "low_mean": 0.7685149750012472,
+        "low_std": 0,
+        "low_n": 1,
+        "t_statistic": -0.8749862061481116,
+        "p_value": 0.43097534898775897,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 2.5747920479225823,
+        "high_std": 0.9585419429650285,
+        "high_n": 5,
+        "low_mean": 5.107403876286874,
+        "low_std": 0,
+        "low_n": 1,
+        "t_statistic": -2.4119421481419274,
+        "p_value": 0.07340026595612312,
+        "cohens_d": 0.0,
+        "significant": false
+      }
+    }
+  },
+  "Ring Tower Transfer": {
+    "phase": "Ring Tower Transfer",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 15,
+    "low_n": 26,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 13.181082067325564,
+        "high_std": 26.58448298164986,
+        "high_n": 15,
+        "low_mean": 14.11798180217511,
+        "low_std": 22.71172339264744,
+        "low_n": 26,
+        "t_statistic": -0.11953500430921313,
+        "p_value": 0.9054651548222001,
+        "cohens_d": -0.03875740814094069,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 6.541433466485482,
+        "high_std": 12.73467220737472,
+        "high_n": 15,
+        "low_mean": 7.034358326784291,
+        "low_std": 11.660470471188946,
+        "low_n": 26,
+        "t_statistic": -0.12608932461534852,
+        "p_value": 0.9003090138802536,
+        "cohens_d": -0.04088254687046484,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -1.574367685924219,
+        "high_std": 3.1748529228201385,
+        "high_n": 15,
+        "low_mean": -1.6712730407211736,
+        "low_std": 3.066662031634214,
+        "low_n": 26,
+        "t_statistic": 0.09622679218881808,
+        "p_value": 0.9238332363998683,
+        "cohens_d": 0.031200074660206085,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 1.963354347194334,
+        "high_std": 1.0789252672273797,
+        "high_n": 15,
+        "low_mean": 2.919515966597721,
+        "low_std": 3.4203727993277497,
+        "low_n": 26,
+        "t_statistic": -1.0480592275937768,
+        "p_value": 0.30106324575299137,
+        "cohens_d": -0.3398172733959594,
+        "significant": false
+      }
+    }
+  },
+  "Suturing (Railroad Track)": {
+    "phase": "Suturing (Railroad Track)",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 13,
+    "low_n": 12,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 15.47096969397188,
+        "high_std": 29.590063227312267,
+        "high_n": 13,
+        "low_mean": 11.943673499802152,
+        "low_std": 19.46355896290483,
+        "low_n": 12,
+        "t_statistic": 0.34883815543582974,
+        "p_value": 0.7303840432607742,
+        "cohens_d": 0.1396470245167786,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 7.3083244120307524,
+        "high_std": 13.776866690715448,
+        "high_n": 13,
+        "low_mean": 5.748050450177616,
+        "low_std": 9.397317592842615,
+        "low_n": 12,
+        "t_statistic": 0.3279292919303077,
+        "p_value": 0.7459316453141525,
+        "cohens_d": 0.13127678023852407,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -0.7424239253223845,
+        "high_std": 1.4235897847747108,
+        "high_n": 13,
+        "low_mean": -0.9450422102071282,
+        "low_std": 2.272749242134051,
+        "low_n": 12,
+        "t_statistic": 0.2694766626504128,
+        "p_value": 0.7899657637083031,
+        "cohens_d": 0.10787700120941718,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 1.8311830800452973,
+        "high_std": 0.9114887979507035,
+        "high_n": 13,
+        "low_mean": 1.9525146436941085,
+        "low_std": 1.206732107343708,
+        "low_n": 12,
+        "t_statistic": -0.28513061105314913,
+        "p_value": 0.7780959019200497,
+        "cohens_d": -0.11414359585314288,
+        "significant": false
+      }
+    }
+  },
+  "full": {
+    "phase": "full",
+    "comparison": "High Experience (>=100) vs Low Experience (<100)",
+    "high_n": 15,
+    "low_n": 27,
+    "metrics": {
+      "focus_index": {
+        "high_mean": 13.179613994235867,
+        "high_std": 26.13147828942171,
+        "high_n": 15,
+        "low_mean": 22.012566906253173,
+        "low_std": 50.698085938275376,
+        "low_n": 27,
+        "t_statistic": -0.627663966019631,
+        "p_value": 0.5337911583349736,
+        "cohens_d": -0.20212700003550935,
+        "significant": false
+      },
+      "engagement_index": {
+        "high_mean": 6.181251632823815,
+        "high_std": 12.089287110331508,
+        "high_n": 15,
+        "low_mean": 9.893316318234406,
+        "low_std": 20.99840739669585,
+        "low_n": 27,
+        "t_statistic": -0.6272125325170304,
+        "p_value": 0.5340839945336862,
+        "cohens_d": -0.20198162463635294,
+        "significant": false
+      },
+      "FAA_index": {
+        "high_mean": -1.540186027568018,
+        "high_std": 3.1691071788800813,
+        "high_n": 15,
+        "low_mean": -1.5528220418073657,
+        "low_std": 2.9520085324581133,
+        "low_n": 27,
+        "t_statistic": 0.012951029745247604,
+        "p_value": 0.9897312433897065,
+        "cohens_d": 0.004170627806433086,
+        "significant": false
+      },
+      "TLX": {
+        "high_mean": 1.9294743775515797,
+        "high_std": 1.029917094278099,
+        "high_n": 15,
+        "low_mean": 2.937690766306707,
+        "low_std": 3.6056816184625644,
+        "low_n": 27,
+        "t_statistic": -1.0540868275719997,
+        "p_value": 0.2981689072254051,
+        "cohens_d": -0.3394482075898105,
+        "significant": false
+      }
+    }
+  }
+}

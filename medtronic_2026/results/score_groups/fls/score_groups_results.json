@@ -1,0 +1,222 @@
+{
+  "Circle Cutting": {
+    "phase": "Circle Cutting",
+    "low_n": 6,
+    "high_n": 6,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 12.207704277057829,
+        "low_std": 10.67550504586226,
+        "low_n": 6,
+        "high_mean": 13.597729284364418,
+        "high_std": 11.28596796629338,
+        "high_n": 6,
+        "t_statistic": -0.2191714856798209,
+        "p_value": 0.8309252082805956,
+        "cohens_d": -0.12653871625593477,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 8.455171505038418,
+        "low_std": 8.698755602444445,
+        "low_n": 6,
+        "high_mean": 9.32164032050091,
+        "high_std": 9.74354017356008,
+        "high_n": 6,
+        "t_statistic": -0.16249229818775116,
+        "p_value": 0.8741547573629493,
+        "cohens_d": -0.09381497209993907,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -0.7484053549997874,
+        "low_std": 1.3836475452940349,
+        "low_n": 6,
+        "high_mean": -0.1306684476926937,
+        "high_std": 3.01612728627548,
+        "high_n": 6,
+        "t_statistic": -0.45599055544930933,
+        "p_value": 0.658138968229,
+        "cohens_d": -0.26326626993658564,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.3169170174366036,
+        "low_std": 0.7037682382808833,
+        "low_n": 6,
+        "high_mean": 1.3946213838198378,
+        "high_std": 0.7378334058800562,
+        "high_n": 6,
+        "t_statistic": -0.18666786509713348,
+        "p_value": 0.8556536766077766,
+        "cohens_d": -0.10777274216288277,
+        "significant": false
+      }
+    }
+  },
+  "Peg Transfer": {
+    "phase": "Peg Transfer",
+    "low_n": 6,
+    "high_n": 6,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 12.246324891161171,
+        "low_std": 10.614625856256852,
+        "low_n": 6,
+        "high_mean": 9.262941126614097,
+        "high_std": 9.222717468342676,
+        "high_n": 6,
+        "t_statistic": 0.519696488423983,
+        "p_value": 0.6145833436296291,
+        "cohens_d": 0.3000469074884898,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 7.65523004393684,
+        "low_std": 7.012872738971115,
+        "low_n": 6,
+        "high_mean": 6.1239685736721405,
+        "high_std": 7.815152708273366,
+        "high_n": 6,
+        "t_statistic": 0.35720859684911876,
+        "p_value": 0.7283589976810072,
+        "cohens_d": 0.20623447954768714,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -0.9237130946145508,
+        "low_std": 1.7992099517233977,
+        "low_n": 6,
+        "high_mean": 0.1811570517277731,
+        "high_std": 2.9198097533138885,
+        "high_n": 6,
+        "t_statistic": -0.7891109196758357,
+        "p_value": 0.44835190601882713,
+        "cohens_d": -0.4555934018953169,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.7451824433260688,
+        "low_std": 0.9628234355474425,
+        "low_n": 6,
+        "high_mean": 1.8632014008600766,
+        "high_std": 1.3477472055202084,
+        "high_n": 6,
+        "t_statistic": -0.17453348319285142,
+        "p_value": 0.8649291750665506,
+        "cohens_d": -0.10076695350399577,
+        "significant": false
+      }
+    }
+  },
+  "Pen Rose Suturing": {
+    "phase": "Pen Rose Suturing",
+    "low_n": 6,
+    "high_n": 6,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 10.04981461267537,
+        "low_std": 5.562718625271971,
+        "low_n": 6,
+        "high_mean": 13.594781866211422,
+        "high_std": 12.827403718653624,
+        "high_n": 6,
+        "t_statistic": -0.621054745161339,
+        "p_value": 0.5484574592274833,
+        "cohens_d": -0.3585661243003935,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.553884141807931,
+        "low_std": 4.472290950399503,
+        "low_n": 6,
+        "high_mean": 9.356720377585537,
+        "high_std": 10.429120480271191,
+        "high_n": 6,
+        "t_statistic": -0.6050196418172461,
+        "p_value": 0.5586444900654587,
+        "cohens_d": -0.349308253068198,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -1.0787992822953494,
+        "low_std": 1.916840936812965,
+        "low_n": 6,
+        "high_mean": -0.018144728526165627,
+        "high_std": 2.6011550097599656,
+        "high_n": 6,
+        "t_statistic": -0.8040691069749574,
+        "p_value": 0.4400529742002063,
+        "cohens_d": -0.4642295153590536,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.5330763720725589,
+        "low_std": 0.8646676234589045,
+        "low_n": 6,
+        "high_mean": 1.7577462303990903,
+        "high_std": 1.2244092012946546,
+        "high_n": 6,
+        "t_statistic": -0.367143229493143,
+        "p_value": 0.721162475964134,
+        "cohens_d": -0.21197024237901466,
+        "significant": false
+      }
+    }
+  },
+  "full": {
+    "phase": "full",
+    "low_n": 6,
+    "high_n": 6,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 10.430503051334282,
+        "low_std": 6.726560666315856,
+        "low_n": 6,
+        "high_mean": 11.142486710048084,
+        "high_std": 9.62739295807589,
+        "high_n": 6,
+        "t_statistic": -0.14849473867968185,
+        "p_value": 0.8849040738054226,
+        "cohens_d": -0.08573347734995745,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.76271782378761,
+        "low_std": 5.285677748372825,
+        "low_n": 6,
+        "high_mean": 7.361667555272636,
+        "high_std": 7.8610918111516295,
+        "high_n": 6,
+        "t_statistic": -0.15487620350018394,
+        "p_value": 0.8800002976158603,
+        "cohens_d": -0.08941781778189845,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -0.9622356421818571,
+        "low_std": 1.7271411579241347,
+        "low_n": 6,
+        "high_mean": 0.10410937830025602,
+        "high_std": 2.7872932941488915,
+        "high_n": 6,
+        "t_statistic": -0.7965780385336325,
+        "p_value": 0.44419629845180597,
+        "cohens_d": -0.4599045449779368,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.831555357671382,
+        "low_std": 0.9923705158150518,
+        "low_n": 6,
+        "high_mean": 2.0611183032955727,
+        "high_std": 1.3218338840626906,
+        "high_n": 6,
+        "t_statistic": -0.340199416679464,
+        "p_value": 0.7407443974740493,
+        "cohens_d": -0.19641422479804221,
+        "significant": false
+      }
+    }
+  }
+}

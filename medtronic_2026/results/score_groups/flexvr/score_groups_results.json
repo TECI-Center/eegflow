@@ -1,0 +1,228 @@
+{
+  "Fourth Arm Cutting": {
+    "phase": "Fourth Arm Cutting",
+    "low_n": 7,
+    "high_n": 8,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 12.261241070782159,
+        "low_std": 8.926802593874005,
+        "low_n": 7,
+        "high_mean": 5.441694106075023,
+        "high_std": 3.1732921412892683,
+        "high_n": 8,
+        "t_statistic": 2.028344056481368,
+        "p_value": 0.06352602104005038,
+        "cohens_d": 1.0497677819059161,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.8124842786037,
+        "low_std": 5.569610477255102,
+        "low_n": 7,
+        "high_mean": 2.439915647826056,
+        "high_std": 2.111935222717513,
+        "high_n": 8,
+        "t_statistic": 2.0662440233369397,
+        "p_value": 0.05933114507667359,
+        "cohens_d": 1.0693828782763513,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -2.014679656165371,
+        "low_std": 3.1065801193805807,
+        "low_n": 7,
+        "high_mean": -0.20858631307058106,
+        "high_std": 0.5312155302508098,
+        "high_n": 8,
+        "t_statistic": -1.6259905422603949,
+        "p_value": 0.12793619265867046,
+        "cohens_d": -0.8415300547727228,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.701354139923678,
+        "low_std": 0.745438283636444,
+        "low_n": 7,
+        "high_mean": 2.966586155975147,
+        "high_std": 2.2903725016370986,
+        "high_n": 8,
+        "t_statistic": -1.3927187489379562,
+        "p_value": 0.187066724703679,
+        "cohens_d": -0.7208004318693408,
+        "significant": false
+      }
+    }
+  },
+  "Puzzle Piece Dissection": {
+    "phase": "Puzzle Piece Dissection",
+    "low_n": 2,
+    "high_n": 8,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 12.05518437791544,
+        "low_std": 9.382976198793157,
+        "low_n": 2,
+        "high_mean": 10.242476762859395,
+        "high_std": 11.263975433611757,
+        "high_n": 8,
+        "t_statistic": 0.20757150670925906,
+        "p_value": 0.8407500767441631,
+        "cohens_d": 0.16409968463854518,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 7.8249583771845055,
+        "low_std": 7.656565044864934,
+        "low_n": 2,
+        "high_mean": 5.280092500972711,
+        "high_std": 6.802997881364561,
+        "high_n": 8,
+        "t_statistic": 0.46548314078418457,
+        "p_value": 0.6539946800742026,
+        "cohens_d": 0.3679967343217099,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": 0.007884748760252788,
+        "low_std": 0.22935740712289154,
+        "low_n": 2,
+        "high_mean": -0.07112907829947007,
+        "high_std": 0.600464816679746,
+        "high_n": 8,
+        "t_statistic": 0.17611327744510913,
+        "p_value": 0.8645814003471463,
+        "cohens_d": 0.13922977073092607,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.27971447939898,
+        "low_std": 0.48025862272208875,
+        "low_n": 2,
+        "high_mean": 2.610173375265888,
+        "high_std": 2.322326223997776,
+        "high_n": 8,
+        "t_statistic": -0.7723454186525888,
+        "p_value": 0.4621146058939333,
+        "cohens_d": -0.610592665834619,
+        "significant": false
+      }
+    }
+  },
+  "Ring Tower Transfer": {
+    "phase": "Ring Tower Transfer",
+    "low_n": 4,
+    "high_n": 8,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 10.834134054445396,
+        "low_std": 8.36857394633261,
+        "low_n": 4,
+        "high_mean": 11.24493139606496,
+        "high_std": 8.984545696605151,
+        "high_n": 8,
+        "t_statistic": -0.07619353604026266,
+        "p_value": 0.9407679510173788,
+        "cohens_d": -0.04665882124925095,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.218116178291573,
+        "low_std": 5.293196292942325,
+        "low_n": 4,
+        "high_mean": 5.054446865022212,
+        "high_std": 3.729411787608269,
+        "high_n": 8,
+        "t_statistic": 0.4461483653532442,
+        "p_value": 0.6649950977329898,
+        "cohens_d": 0.2732089611730634,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -0.2004735924701698,
+        "low_std": 0.3795627200074193,
+        "low_n": 4,
+        "high_mean": -0.16829838259971372,
+        "high_std": 0.35760814359814336,
+        "high_n": 8,
+        "t_statistic": -0.14421376063264857,
+        "p_value": 0.8881966238368828,
+        "cohens_d": -0.08831253185946528,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.3612512013648248,
+        "low_std": 0.34937089851091435,
+        "low_n": 4,
+        "high_mean": 2.7141171322268867,
+        "high_std": 2.719820401842938,
+        "high_n": 8,
+        "t_statistic": -0.9674303544360594,
+        "p_value": 0.3561435528627408,
+        "cohens_d": -0.5924276825120555,
+        "significant": false
+      }
+    }
+  },
+  "Vessel Energy Dissection": {
+    "phase": "Vessel Energy Dissection",
+    "low_n": 0,
+    "high_n": 4,
+    "metrics": {}
+  },
+  "full": {
+    "phase": "full",
+    "low_n": 7,
+    "high_n": 8,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 10.25708238145233,
+        "low_std": 7.234666478111059,
+        "low_n": 7,
+        "high_mean": 7.308114515104473,
+        "high_std": 4.391030149044053,
+        "high_n": 8,
+        "t_statistic": 0.9695314314872713,
+        "p_value": 0.34997348261011374,
+        "cohens_d": 0.5017801871769428,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 5.637444784496649,
+        "low_std": 4.670001542718112,
+        "low_n": 7,
+        "high_mean": 3.4692541209364256,
+        "high_std": 2.776695942723578,
+        "high_n": 8,
+        "t_statistic": 1.111062830621443,
+        "p_value": 0.2866685388763596,
+        "cohens_d": 0.5750296452579641,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -1.9678146508200203,
+        "low_std": 3.2003275269354927,
+        "low_n": 7,
+        "high_mean": -0.11828468593024843,
+        "high_std": 0.49502223143403723,
+        "high_n": 8,
+        "t_statistic": -1.6211872862662506,
+        "p_value": 0.1289685942399812,
+        "cohens_d": -0.8390441336220252,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.900810821341063,
+        "low_std": 0.4624047796690012,
+        "low_n": 7,
+        "high_mean": 3.022724312705554,
+        "high_std": 2.1139368028240355,
+        "high_n": 8,
+        "t_statistic": -1.3696527888989758,
+        "p_value": 0.19399000092806504,
+        "cohens_d": -0.7088626634072903,
+        "significant": false
+      }
+    }
+  }
+}

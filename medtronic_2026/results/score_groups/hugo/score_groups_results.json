@@ -1,0 +1,283 @@
+{
+  "Fourth Arm Cutting": {
+    "phase": "Fourth Arm Cutting",
+    "low_n": 12,
+    "high_n": 12,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 12.314044817560472,
+        "low_std": 21.923403133269094,
+        "low_n": 12,
+        "high_mean": 13.39121002344303,
+        "high_std": 25.05346715968274,
+        "high_n": 12,
+        "t_statistic": -0.11208357038306037,
+        "p_value": 0.9117735326401504,
+        "cohens_d": -0.04575792599797046,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.4347764683808855,
+        "low_std": 12.059212463391003,
+        "low_n": 12,
+        "high_mean": 5.8739910777382205,
+        "high_std": 11.178929740867352,
+        "high_n": 12,
+        "t_statistic": 0.1181379774532206,
+        "p_value": 0.907030344641116,
+        "cohens_d": 0.048229627334135695,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -2.6741649131385885,
+        "low_std": 3.8736515221077075,
+        "low_n": 12,
+        "high_mean": -0.6671431533380573,
+        "high_std": 1.191532390537214,
+        "high_n": 12,
+        "t_statistic": -1.715501093450903,
+        "p_value": 0.10030557376952436,
+        "cohens_d": -0.7003503886902188,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 3.745916423460145,
+        "low_std": 4.687939054604622,
+        "low_n": 12,
+        "high_mean": 2.9014425573583824,
+        "high_std": 1.3435720056334959,
+        "high_n": 12,
+        "t_statistic": 0.5998643192578217,
+        "p_value": 0.5547255147812484,
+        "cohens_d": 0.24489358284727464,
+        "significant": false
+      }
+    }
+  },
+  "Knot Tying": {
+    "phase": "Knot Tying",
+    "low_n": 7,
+    "high_n": 12,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 100.58511497103382,
+        "low_std": 242.51443191751252,
+        "low_n": 7,
+        "high_mean": 14.763662633583776,
+        "high_std": 27.237558680844124,
+        "high_n": 12,
+        "t_statistic": 1.238241527682626,
+        "p_value": 0.2324541230914524,
+        "cohens_d": 0.5889013129455791,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 39.57090322603518,
+        "low_std": 92.92444344220839,
+        "low_n": 7,
+        "high_mean": 6.81230313906446,
+        "high_std": 12.793866739973648,
+        "high_n": 12,
+        "t_statistic": 1.2265600541921549,
+        "p_value": 0.23670597822206016,
+        "cohens_d": 0.5833456641308024,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -2.11340871085089,
+        "low_std": 3.0277841702140607,
+        "low_n": 7,
+        "high_mean": -0.6151642467450039,
+        "high_std": 1.383516241202953,
+        "high_n": 12,
+        "t_statistic": -1.489331562590773,
+        "p_value": 0.1547180650240951,
+        "cohens_d": -0.7083184443526427,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 5.8081079203424535,
+        "low_std": 7.994972241183947,
+        "low_n": 7,
+        "high_mean": 2.525359467502519,
+        "high_std": 1.2420789734110642,
+        "high_n": 12,
+        "t_statistic": 1.422100328487857,
+        "p_value": 0.17308570080115557,
+        "cohens_d": 0.6763436146049628,
+        "significant": false
+      }
+    }
+  },
+  "Puzzle Piece Dissection": {
+    "phase": "Puzzle Piece Dissection",
+    "low_n": 0,
+    "high_n": 6,
+    "metrics": {}
+  },
+  "Ring Tower Transfer": {
+    "phase": "Ring Tower Transfer",
+    "low_n": 11,
+    "high_n": 12,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 13.041672632681239,
+        "low_std": 23.941629361999244,
+        "low_n": 11,
+        "high_mean": 15.507847741561973,
+        "high_std": 29.50835153647606,
+        "high_n": 12,
+        "t_statistic": -0.21880959199103237,
+        "p_value": 0.8289109366534387,
+        "cohens_d": -0.09133627775007333,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 6.804315233833856,
+        "low_std": 13.361132934936656,
+        "low_n": 11,
+        "high_mean": 7.555878939462061,
+        "high_std": 14.161784211292773,
+        "high_n": 12,
+        "t_statistic": -0.13059917316929884,
+        "p_value": 0.8973353891663681,
+        "cohens_d": -0.054515171140257314,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -2.8762166533243745,
+        "low_std": 4.042039654126195,
+        "low_n": 11,
+        "high_mean": -0.7205312686250869,
+        "high_std": 1.423292519420896,
+        "high_n": 12,
+        "t_statistic": -1.736816593782984,
+        "p_value": 0.09706749689862401,
+        "cohens_d": -0.7249881569049328,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 3.5876583191216636,
+        "low_std": 4.815760298577868,
+        "low_n": 11,
+        "high_mean": 3.120174978163296,
+        "high_std": 2.0302427107523178,
+        "high_n": 12,
+        "t_statistic": 0.30821813688571564,
+        "p_value": 0.7609528392254212,
+        "cohens_d": 0.12865751040456033,
+        "significant": false
+      }
+    }
+  },
+  "Suturing (Railroad Track)": {
+    "phase": "Suturing (Railroad Track)",
+    "low_n": 1,
+    "high_n": 12,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 3.7774036063668808,
+        "low_std": 0,
+        "low_n": 1,
+        "high_mean": 16.04601317655477,
+        "high_std": 30.864073892020418,
+        "high_n": 12,
+        "t_statistic": -0.38191001105739136,
+        "p_value": 0.7098030534267085,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 1.6994012451664986,
+        "low_std": 0,
+        "low_n": 1,
+        "high_mean": 7.451628490771497,
+        "high_std": 14.430268979597061,
+        "high_n": 12,
+        "t_statistic": -0.3829839334561468,
+        "p_value": 0.7090292407425647,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -0.4988604494170078,
+        "low_std": 0,
+        "low_n": 1,
+        "high_mean": -0.746998764860236,
+        "high_std": 1.4959854585091035,
+        "high_n": 12,
+        "t_statistic": 0.1593622322231417,
+        "p_value": 0.8762719064961305,
+        "cohens_d": 0.0,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 1.487267163497426,
+        "low_std": 0,
+        "low_n": 1,
+        "high_mean": 2.500639178988789,
+        "high_std": 1.0771480587528846,
+        "high_n": 12,
+        "t_statistic": -0.9038834836479953,
+        "p_value": 0.38542483116400295,
+        "cohens_d": 0.0,
+        "significant": false
+      }
+    }
+  },
+  "full": {
+    "phase": "full",
+    "low_n": 12,
+    "high_n": 12,
+    "metrics": {
+      "focus_index": {
+        "low_mean": 30.898474256816595,
+        "low_std": 73.20662454793133,
+        "low_n": 12,
+        "high_mean": 15.352165627454637,
+        "high_std": 28.999048120291416,
+        "high_n": 12,
+        "t_statistic": 0.6839378619726553,
+        "p_value": 0.5011556525060397,
+        "cohens_d": 0.279216462933846,
+        "significant": false
+      },
+      "engagement_index": {
+        "low_mean": 13.320683996148878,
+        "low_std": 29.740253270504212,
+        "low_n": 12,
+        "high_mean": 7.027661637983365,
+        "high_std": 13.469646344653068,
+        "high_n": 12,
+        "t_statistic": 0.6677114243904091,
+        "p_value": 0.5112621638030229,
+        "cohens_d": 0.2725920475305755,
+        "significant": false
+      },
+      "FAA_index": {
+        "low_mean": -2.5735426528936576,
+        "low_std": 3.8590727779638683,
+        "low_n": 12,
+        "high_mean": -0.7045379944420259,
+        "high_std": 1.4716824649329487,
+        "high_n": 12,
+        "t_statistic": -1.567592709246408,
+        "p_value": 0.13124825601872087,
+        "cohens_d": -0.6399670436934615,
+        "significant": false
+      },
+      "TLX": {
+        "low_mean": 3.821195711925785,
+        "low_std": 5.252307800000033,
+        "low_n": 12,
+        "high_mean": 2.8121771795534016,
+        "high_std": 1.1935019566940626,
+        "high_n": 12,
+        "t_statistic": 0.6489437260344559,
+        "p_value": 0.5230921019978119,
+        "cohens_d": 0.2649301667608161,
+        "significant": false
+      }
+    }
+  }
+}
