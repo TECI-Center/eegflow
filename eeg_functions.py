@@ -9,6 +9,9 @@ from datetime import timedelta
 import sys
 from io import StringIO
 import math
+from zoneinfo import ZoneInfo
+
+_EASTERN = ZoneInfo("America/New_York")
 
 
 def read_eeg(fp):
@@ -79,10 +82,11 @@ def compute_power_over_time(data, fs, band, start, window_sec=2):
     window_samples = int(window_sec * fs)
     num_windows = len(data) // window_samples
 
-    # FORCE scalar datetime
+    # FORCE scalar datetime (UTC-aware)
     start = pd.to_datetime(
         start.iloc[0] if hasattr(start, "__len__") else start,
-        unit="s"
+        unit="s",
+        utc=True
     ).to_pydatetime()
 
     time_series = []
@@ -94,7 +98,7 @@ def compute_power_over_time(data, fs, band, start, window_sec=2):
         power_series.append(power)
 
         center_sec = (i + 0.5) * float(window_sec)
-        ts = start + timedelta(seconds=center_sec) - timedelta(hours=7) # THIS NEEDS TO BE FIXED
+        ts = (start + timedelta(seconds=center_sec)).astimezone(_EASTERN)
 
         time_series.append(ts)
 
